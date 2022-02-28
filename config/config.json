@@ -1,0 +1,7 @@
+ {  
+    "driver": "mysql",  
+    "user": "root",  
+    "database": "articles",  
+    "password": "root" ,
+    "host":3306  
+    }
