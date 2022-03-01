@@ -1,8 +1,5 @@
 # Node_Tutorial
+
 Node_tutorial
 
-
-
-
-
-ref:  https://layercode.com/community/sequelize-with-nodejs
+ref: https://layercode.com/community/sequelize-with-nodejs
